@@ -1,5 +1,5 @@
 =========
-myproject
+Toxoplasmosis and Me: A guide to world domination
 =========
 
 
